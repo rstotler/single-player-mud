@@ -8,5 +8,5 @@ Combat example
 Items on ground  
 ![alt text](https://github.com/rstotler/gifs/blob/main/Typequest-Items.gif)  
   
-Player movement
+Player movement  
 ![alt text](https://github.com/rstotler/gifs/blob/main/Typequest-Movement.gif)  
