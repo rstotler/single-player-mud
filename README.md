@@ -1,4 +1,5 @@
 # Typequest
+Requires Python 2.7 & PyGame  
 
 ## Screenshots
 Combat example  
